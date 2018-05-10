@@ -1,0 +1,3 @@
+hadratech_utilisateur_homepage:
+    path:     /
+    defaults: { _controller: HadratechUtilisateurBundle:Default:index }
