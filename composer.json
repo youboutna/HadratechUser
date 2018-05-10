@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "AppBundle\\": "src/AppBundle"
+            "Hadratech\\UtilisateurBundle\\":"src/Hadratech/UtilisateurBundle"
         },
         "classmap": [
             "app/AppKernel.php",
